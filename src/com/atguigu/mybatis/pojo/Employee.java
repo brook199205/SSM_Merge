@@ -6,6 +6,8 @@ public class Employee {
 
     //rrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
+	private Integer id2;
+
 
 	private Integer id;
 	private String lastName;
